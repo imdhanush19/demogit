@@ -1,0 +1,60 @@
+[33mcommit 4dc0d3cc5fde1d80e3689f3e8667d91fee9a380c[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m)[m
+Author: imdhanush19 <iamdhanush19@gmail.com>
+Date:   Mon Jan 12 19:57:40 2026 +0530
+
+    adding more lines
+
+[33mcommit 9b2555c8faebf6952117b1455b98c9e1887bf86d[m
+Merge: 8d37b1b 5b4cf02
+Author: Dhanushkumar V <142441516+imdhanush19@users.noreply.github.com>
+Date:   Mon Jan 12 19:50:14 2026 +0530
+
+    Merge pull request #2 from imdhanush19/newbug
+    
+    Newbug
+
+[33mcommit 5b4cf02f5015b4545d5c289ffc1641f0b54de82f[m
+Merge: 0d548bf 8d37b1b
+Author: imdhanush19 <iamdhanush19@gmail.com>
+Date:   Mon Jan 12 19:46:06 2026 +0530
+
+    after conflict
+
+[33mcommit 8d37b1bc77e7d2784fd03db88ea37ff7da91344f[m
+Merge: 5a9e310 5ee0ce0
+Author: Dhanushkumar V <142441516+imdhanush19@users.noreply.github.com>
+Date:   Mon Jan 12 19:13:41 2026 +0530
+
+    Merge pull request #1 from imdhanush19/feature
+    
+    Feature
+
+[33mcommit 5ee0ce03ba9b52d4d97b903f20b0d62edffb71a9[m[33m ([m[1;31morigin/feature[m[33m, [m[1;32mfeature[m[33m)[m
+Author: imdhanush19 <iamdhanush19@gmail.com>
+Date:   Mon Jan 12 19:06:35 2026 +0530
+
+    change 2 in feature branch
+
+[33mcommit 0d548bf35d39d5a6ba53b0cce840ac83dd3b6c3d[m
+Author: imdhanush19 <iamdhanush19@gmail.com>
+Date:   Mon Jan 12 18:53:37 2026 +0530
+
+    newbug branch2
+
+[33mcommit f5018daa135df5a39b2bf4ac8f7ccae33531e56a[m
+Author: imdhanush19 <iamdhanush19@gmail.com>
+Date:   Mon Jan 12 18:47:09 2026 +0530
+
+    from feature branch
+
+[33mcommit 1eb2e210a2c26034f6f64f36e465345b24d765ab[m[33m ([m[1;32mbug[m[33m)[m
+Author: imdhanush19 <iamdhanush19@gmail.com>
+Date:   Mon Jan 12 15:41:44 2026 +0530
+
+    update branchreadme
+
+[33mcommit 5a9e31077fa18fb41ca457b97ef1d9e6a05212fb[m
+Author: imdhanush19 <iamdhanush19@gmail.com>
+Date:   Mon Jan 12 14:59:39 2026 +0530
+
+    commit one
